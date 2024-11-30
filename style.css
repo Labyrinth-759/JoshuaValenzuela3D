@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.logo {
+  margin-left: 3.75rem;
+  margin-top: 1.875rem;
+  width: 7vh;
+}
+
+body {
+  line-height: 1.5;
+}
