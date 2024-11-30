@@ -12,13 +12,13 @@ const navSection = {
     { name: "Projects", href: "#project", cname:"project-nav" },
     { name: "Contact", href: "#contact", cname: "contact-nav" },
   ],
-  img: "/images/1.png",
+  img: "images/1.png",
   btn: "Learn More"
 };
 
 // Header
 const heroSection = {
-  img: "/images/photo.png",
+  img: "images/photo.png",
   title: "I'm",
   name: "Joshua Valenzuela",
   about: "I'm a passionate software development student with a strong interest in building efficient, and user-friendly applications...",
@@ -32,7 +32,7 @@ const aboutSection = {
   h2: "About",
   colortext: "Me",
   about:"I'm a third year student taking Bachelor of Science in Information Technology in Marinduque State University. Throughout my studies, I have developed a strong foundation in programming, and application development.In my spare I enjoy gaming, watching anime.",
-  img: "/images/img.png",
+  img: "images/img.png",
   btn: "Learn More"
 }
 
@@ -44,22 +44,22 @@ const skillSection = {
   skills: [
     {
       name: "HTML",
-      img: "/images/Html.png",
+      img: "images/Html.png",
       p: "Started my journey in learning HTML back in 2nd year college when we started to create practice website"
     },
     {
       name: "CSS",
-      img: "/images/Css.png",
+      img: "images/Css.png",
       p: "In my second year of college, I started using CSS to style and enhance the visual aspects of web projects.",
     },
     {
       name: "JAVASCRIPT", 
-      img: "/images/javascript.png",
+      img: "images/javascript.png",
       p: "In my third year of college, I began using JavaScript to bring interactivity and dynamic functionality to my web projects."
     },
     {
       name: "PYTHON",
-      img: "/images/pythonl.png",
+      img: "images/pythonl.png",
       p: "In my first year of college, I started learning Python, which became my introduction to programming. Its simplicity and versatility made it easy to grasp foundational concepts like variables, loops, and functions."
     }
   ]
@@ -73,19 +73,19 @@ const projectSection = {
   projects :[
     {
       name: "World's Hardest Game",
-      img:"/images/Worlds Hardest Game.png",
+      img:"images/Worlds Hardest Game.png",
     },
     {
       name: "Landing Page",
-      img:"/images/Landing Page Activity.png",
+      img:"images/Landing Page Activity.png",
     },
     {
       name: "Recipe Page",
-      img:"/images/Recipe Page.png",
+      img:"images/Recipe Page.png",
     },
     {
       name: "Portfolio",
-      img:"/images/Portfolio.png"
+      img:"images/Portfolio.png"
     }
   ]
 }
@@ -116,15 +116,15 @@ const footerSection = {
   Title: "Joshua Salcedo Valenzuela | BSI/T 3D",
   link:[
     {
-      img:"/images/facebook-brands-solid.png",
+      img:"images/facebook-brands-solid.png",
       href:"https://web.facebook.com/auhsoj.salcedo"
     },
     {
-      img: "/images/github-brands-solid.png",
+      img: "images/github-brands-solid.png",
       href:"https://github.com/Labyrinth-759"
     },
     {
-      img:"/images/instagram-brands-solid.png",
+      img:"images/instagram-brands-solid.png",
       href:"https://www.instagram.com/slnt_sky/"
     }
   ]
